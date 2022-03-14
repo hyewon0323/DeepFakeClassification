@@ -1,7 +1,3 @@
-# DeepFakeClassification
-Solution for Real/Fake image classification (Kaggle In-class Competition)
-# 2021 Real/Fake image classification
-
 ## Challenge Details
 * [Kaggle Challenge Page](https://www.kaggle.com/c/deepfake-statml2021s-smwu/)
 * In-class Competition of Sookmyung Women's University
